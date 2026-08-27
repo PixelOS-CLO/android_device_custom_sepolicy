@@ -3,6 +3,7 @@ net.pixelos.version                    u:object_r:custom_version_prop:s0
 ro.custom.build.date                   u:object_r:custom_version_prop:s0
 ro.custom.device                       u:object_r:custom_version_prop:s0
 ro.custom.fingerprint                  u:object_r:custom_version_prop:s0
+ro.custom.system.version               u:object_r:custom_version_prop:s0
 ro.custom.version                      u:object_r:custom_version_prop:s0
 
 # PIHooks
