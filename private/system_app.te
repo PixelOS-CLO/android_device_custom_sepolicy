@@ -1,1 +1,4 @@
 set_prop(system_app, pih_disable_prop)
+
+hal_client_domain(system_app, hal_vibrator_ext)
+get_prop(system_app, vendor_vibrator_ext_prop)

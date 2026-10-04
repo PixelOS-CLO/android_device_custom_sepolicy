@@ -1,0 +1,2 @@
+hal_client_domain(system_server, hal_vibrator_ext)
+get_prop(system_server, vendor_vibrator_ext_prop)
